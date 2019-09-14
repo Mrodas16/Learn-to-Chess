@@ -1,0 +1,24 @@
+La torre, antiguamente llamada «roque».
+Es una pieza mayor de ajedrez, empleada generalmente en la fase
+final del juego debido a su valor estratégico y táctico,que ha 
+sido ampliamente estudiada en la literatura ajedrecística. 
+
+Consejos y estrategia:
+
+Al comienzo de una partida, cada jugador tiene dos piezas que 
+son dispuestas en las columnas a y h, en la primera fila, para
+las blancas, y en la octava para las negras. Rara vez se utiliza
+en la fase de apertura debido a su baja movilidad en posiciones 
+cerradas. En el medio juego se colocan de modo de ocupar una 
+columna abierta, con el objetivo de atacar al rey del oponente 
+y ocupando la séptima fila enemiga, y en la fase final de la 
+partida puede llegar a ser decisiva contra piezas menores. 
+
+Se mueve en líneas rectas en las columnas y filas del tablero 
+no pudiendo, sin embargo, saltar piezas adversarias o aliadas y 
+captura al ocupar el escaque dejado por el oponente. 
+
+Excepcionalmente,si no ha sido movida, se le permite a una de las
+torres realizar un movimiento especial llamado enroque con el rey,
+en el cual la torre puede "saltar" al monarca, ocupando el escaque
+inmediatamente después de éste en el movimiento. 

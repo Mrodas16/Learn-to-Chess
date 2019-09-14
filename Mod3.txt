@@ -1,0 +1,26 @@
+El caballo:
+
+Es una pieza menor del ajedrez occidental de un valor aproximado de tres
+peones. Tiene un movimiento semejante a una "L"  (Dos casillas en linea 
+recta y una hacia la izquierda o derecha) y, a diferencia de otras piezas,
+puede saltar piezas intermedias. Captura tomando el escaque ocupado
+por la pieza adversaria.
+
+Consejos y estrategias:
+Al comienzo de una partida, cada jugador tiene dos piezas que son dispuestas
+en las columnas b y g, en la primera fila para las blancas y en la octava
+para las negras. El juego es más activo en el centro ampliado donde se puede
+atacar a más escaques que en la esquina y es el único que no consigue perder
+un tiempo y en función de eso no puede evitar posiciones zugzwang.
+
+Normalmente, los jugadores sin experiencia temen el caballo no comprende
+el modo excéntrico de su movimiento, sorprendiéndose con la táctica del
+tenedor. Al final del juego, su ventaja no siempre es suficiente para
+asegurar la victoria por no conseguir atravesar el tablero en un solo
+movimiento, aunque sea un buen bloqueador de peones.
+
+La pieza es utilizada en casi todas las variantes de ajedrez, normalmente
+en la misma posición de la versión occidental, siempre con el mismo 
+movimiento característico y el nombre asignado a la animal caballo.
+El nightrider es una pieza que tiene su movimiento semejante al caballo
+habiendo sido creada para su uso en problemas de ajedrez. 

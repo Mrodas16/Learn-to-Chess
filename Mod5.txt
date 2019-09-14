@@ -1,0 +1,24 @@
+La dama:
+
+también conocida popularmente como reina, es una pieza mayor del juego
+de ajedrez, representada en los países de habla hispana y portuguesa
+por la letra D en la notación algebraica. Es la pieza de mayor valor
+absoluto del juego, por lo general valorada entre nueve y diez puntos.
+Al igual que la torre, es capaz de (con la ayuda del rey) ganar una partida
+contra un rey solitario.
+
+Consejos y estrategia:
+
+Normalmente no se utiliza en la fase de apertura del juego, por estar
+sujeta a ataques de las piezas menores en posiciones cerradas, aunque
+haya aperturas clasificadas en The Encyclopaedia of Chess Openings 
+(Enciclopedia de aperturas de ajedrez) con su prematura utilización. 
+En las fases de medio juego y final, se vuelve extremadamente útil, 
+ya que se utiliza con facilidad en tácticas como el tenedor y el pincho.
+
+La dama se mueve en línea recta por las filas, columnas y diagonales en 
+el tablero. No puede saltar a sus propias piezas o las adversarias y 
+captura tomando el escaque ocupado por el escaque adversario. Debido a 
+su valor, generalmente se cambia solo por la dama adversaria y su sacrificio, 
+en función de otras piezas, son posiciones que normalmente determinan el 
+resultado de la partida.  

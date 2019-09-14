@@ -1,0 +1,24 @@
+El alfil:
+
+Es una pieza menor del ajedrez occidental de valor aproximado
+de tres peones. Se mueve en diagonal y no pueden saltar piezas
+intervinientes, y captura tomando el lugar ocupado por la pieza
+adversaria. Debido a las características de su movimiento,
+tiene la deficiencia de la debilidad del color porque su 
+movimiento queda limitado al color del escaque en el que se inicia
+la partida. 
+
+Consejos y estrategia:
+
+En la apertura, los alfiles suelen desempeñar funciones de defensa 
+de los peones en el centro y, en el concepto hipermoderno, se 
+prefieren desarrollar en fianchetto para controlar las casillas 
+centrales a distancia. En el medio juego y final su valor aumenta
+a medida que las posiciones se vuelven más abiertas, sobre todo si
+el jugador dispone todavía de la pareja de alfiles. Existen estudios
+específicos de finales que implican al alfil: los finales con alfiles
+de colores opuestos tienen una gran tendencia a las tablas incluso
+con gran superioridad material del bando fuerte; mientras que otorga
+una gran ventaja la posesión de algún peón pasado, particularmente 
+cuando el escaque de promoción es del color del alfil y el rey puede 
+proteger el peón hasta la séptima fila. 

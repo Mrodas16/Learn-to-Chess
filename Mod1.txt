@@ -1,0 +1,41 @@
+El Rey:
+
+es la pieza más importante del ajedrez occidental, cuya captura es el único
+objetivo del juego. En los países de habla española y portuguesa, el rey es
+representado por la letra R en la notación algebraica del ajedrez. En caso 
+de que no pueda ser cambiado durante la partida, se la considera una pieza
+invaluable. Vale 20 puntos; sin embargo, algunos autores le atribuyen de 
+dos a cuatro puntos de valor relativo, en una escala de uno a diez, sobre 
+la base de su movilidad, seguridad y el papel activo que juega en el final
+del juego.
+
+Consejos y estrategia:
+? 
+Durante una partida, el rey no puede permanecer bajo la amenaza de piezas
+enemigas en ningún instante, debe ser colocado de forma segura en el 
+movimiento inmediatamente posterior, en caso de ser atacado. Las reglas 
+de etiqueta en el ajedrez indican que al amenazar al rey del oponente, 
+el atacante puede romper el silencio de la partida y anunciar "¡jaque!" 
+y, en el caso de que el rey no pudiera escapar a la captura, anunciar 
+"¡jaque mate!". Estos gestos se consideran opcionales según el reglamento
+del juego.
+
+Su movimiento consiste en el desplazamiento de una casilla o escaque en 
+horizontal, vertical o diagonal. En caso de que el jugador no haya movido
+el Rey durante el juego, se le permite realizar un movimiento especial llamado
+enroque con una de las torres, cumpliendo algunos requisitos. En caso de quedarse
+solo con el rey "el mas importante" se tendrán 10 movimientos para realizar el
+jaque o automáticamente será catalogado como empate. El Rey a su vez que los
+peones pueden salvar piezas y la pieza salvada y el Rey deben regresar a su
+lugar de acomodo ? 
+
+El peon:
+
+Cada jugador tiene ocho peones que estan dispuestos en las filas 2 y 7,
+por delante del resto de piezas. El peon se mueve verticalmente por la 
+columna en la que se encuentra, sin poder retroceder. En el primer movimiento,
+desde el punto inicial, pueden avanzar dos escaques y, a partir de allí, de uno en uno.
+
+La captura tradicional es aquella que realiza el peón con mayor frecuencia 
+y en casi todos las partidas de ajedrez; el movimiento que realiza es en diagonal
+hacia la columna inmediata, ya sea izquierda o derecha capturando una pieza adversaria. 
